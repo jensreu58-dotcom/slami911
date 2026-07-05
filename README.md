@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="120" height="120" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/177657706?v=4" alt="slami911">
+  <img width="120" height="120" style="border-radius:50%" src="https://cdn.phototourl.com/free/2026-07-05-e5fa5246-e030-45b7-bd3e-bfc50e864b67.png">
   <h1>slami911</h1>
   <p>
     <strong>Full-Stack Developer & Entrepreneur</strong>
